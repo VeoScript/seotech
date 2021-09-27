@@ -9,7 +9,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        poppins: ['Poppins', ...defaultTheme.fontFamily.serif],
+        montserrat: ['Montserrat', ...defaultTheme.fontFamily.sans],
       }
     },
   },
