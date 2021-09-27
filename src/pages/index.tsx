@@ -8,10 +8,10 @@ const Home: NextPage = () => {
   return (
     <React.Fragment>
       <Head>
-        <title>SEO Tech</title>
+        <title>SEOTECH</title>
       </Head>
       <Layout>
-        <div className="flex flex-col items-center justify-center w-full h-screen font-poppins">
+        <div className="flex flex-col items-center justify-center w-full h-screen">
           <HomePage />
         </div>
       </Layout>
